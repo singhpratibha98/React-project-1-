@@ -1,23 +1,39 @@
 import logo from './logo.svg';
 import './App.css';
 
+import Header from './Components/Header/Header';
+import Button from './Components/Button/Button';
+import HeroSection from './Components/HeroSection/HeroSection';
+import MainSection from './Components/MainSection/MainSection';
+import FeedbackSection from './Components/FeedbackSection/FeedbackSection';
+import FooterSection from './Components/FooterSection/FooterSection';
+
+
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+    //JSX
+
+    <div id="app">
+
+      <Header/>
+
+
+      {/* <Button title="Search Here" customButtonStyle={{color:"cyan"}}/>
+      <Button title ="Know more" customButtonStyle={{backgroundColor:"red"}}/>
+      <Button title="Click Here"/>
+
+      <Button/> */}
+      
+      <HeroSection/>
+      <MainSection/>
+      <FeedbackSection/>
+      <FooterSection/>
+
+
+
+
     </div>
   );
 }

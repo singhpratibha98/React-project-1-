@@ -1,0 +1,141 @@
+.FeedbackPara{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 270px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: 100px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+
+
+}
+
+.FeedbackPara1{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 180px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: 100px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+.FeedbackPara2{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 140px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: 100px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+.FeedbackPara3{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 150px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: 70px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+.FeedbackPara4{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 130px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: -40px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+.FeedbackPara5{
+    background-color: #F9FAFB;
+    line-height: 1.6;
+    text-align: justify;
+    width: 380px;
+    height: 110px;
+    border-radius: 10px;
+    top:0px;
+    margin-top: -70px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+
+
+
+
+
+.feedbackSection >div>img{
+    height: 60px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 19px;
+
+
+}
+
+.feedbackSection{
+    margin-top: 5px;
+}
+
+.feedbackSection{
+    display: flex;
+    margin-left: 80px;
+
+
+}
+.feedbackSection{
+    display: flex;
+    margin-left: 80px;
+
+
+}
+
+
+
+.header{
+    margin-left: 15px;
+
+}
+
+.header>p{
+    font-weight:500;
+
+}
+
+.header>span{
+    font-size:15px;
+    margin-top: -100px;
+    color: black;
+}
+
+.flexFeedback{
+    display: flex;
+}
+
+
+
+
+

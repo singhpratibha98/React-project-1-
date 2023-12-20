@@ -1,0 +1,56 @@
+.heroSection{
+    width: 100vw;
+    height: 90vh;
+    position: relative;
+
+}
+
+.heroSection>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   
+
+}
+
+.heroSection>div{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+   transform: translate(-50%, -50%);
+    /* background-color: red; */
+    
+}
+
+.heroSection>div>h1{
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+
+    
+}
+
+.Hero{
+    margin-top: 100px;
+}
+
+span{
+    color:#BE123C;
+}
+
+h3{
+    font-weight: 400;
+    margin-left: -50px;
+}
+
+
+
+.heroSection>h3{
+    position: absolute;
+    top: 40%;
+    left: 8%;
+
+}
+
+
+

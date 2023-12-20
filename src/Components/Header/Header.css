@@ -1,0 +1,46 @@
+
+.header__container{
+   color: white;
+   background-color: #111827;
+   /* border: 2px solid red; */
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0px 10%;
+}
+
+.header__container>div{
+    display: flex;
+
+}
+
+
+.header__container>ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+
+}
+
+.header__container>ul>:hover{
+    
+  color:blue;
+  cursor: pointer;
+
+}
+
+h1{
+  font-size: 20px;
+}
+
+img , h1{
+  margin: 0;
+  padding: 5px;
+}
+
+
+
+
+
+
+

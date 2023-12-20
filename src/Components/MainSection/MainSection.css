@@ -1,0 +1,28 @@
+
+.mainSection>img{
+    height: 30%;
+    width: 50%;
+    margin-left: 40px;
+    margin-top: 70px;
+    
+}
+
+.mainSection{
+    display: flex;
+
+}
+
+.mainSection>div>h1{
+    margin-top: 150px;
+    margin-left: 70px;
+    font-size: 35px;
+
+}
+
+.mainSection>div>p{
+    margin-left: 70px;
+    line-height: 1.5;
+    opacity: 0.78;
+    font-size: 20px;
+}
+

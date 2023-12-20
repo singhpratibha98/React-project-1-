@@ -1,0 +1,69 @@
+.FooterImage{
+    width: 180px;
+    color:#0D9488;
+    margin-left:100px;
+    margin-top: 80px;
+    /* align-items: center; */
+    top:0;
+    left:0;
+
+
+}
+
+.Icons>ul{
+    width: 30px;
+    height: 30px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+.FooterDiv{
+    display: inline-block;
+    margin-top: 70px;
+    background-color: #F3F4F6;
+    width: 100vw;
+    height: 60vh;
+   
+    
+}
+
+.Foot{
+    align-items: center;
+    top: 0px;
+    left: 0px;
+    margin-left: 500px;
+    margin-top: 60px;
+
+}
+
+.Foot>p{
+    line-height: 1.8;
+    opacity: 0.78;
+    font-size: 20px;
+    opacity: 0.50;
+
+}
+
+/* .Foot>ul>li{
+    list-style: none;
+    width: 35vw;
+    display: flex;
+    justify-content: space-between;
+
+
+} */
+
+/* .Foot>ul{
+    margin-top: 50px;
+    margin-left: -40px;
+    gap: 60px;
+    margin: 20px;
+} */
+
+.FooterHead{
+    text-align: center;
+}
